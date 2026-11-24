@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "name": "18 La Hán Chùa Tây Phương - Trap Phật",
+    "tags": ["18 La Hán", "Trap Phật"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/18-la-han-chua-tay-phuong.mp3"
+  },
+  {
+    "id": "s02",
+    "name": "Bạc Phận",
+    "tags": ["Jack", "J97", "ICM"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/bac-phan.mp3"
+  },
+  {
+    "id": "s03",
+    "name": "Bông Bí Vàng",
+    "tags": ["Phi Nhung"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/bong-bi-vang.mp3"
+  },
+  {
+    "id": "s04",
+    "name": "Chờ Chút",
+    "tags": ["TINH HÀ", "SAY HI"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/cho-chut.mp3"
+  },
+  {
+    "id": "s05",
+    "name": "Cô Ba (Lofi Version)",
+    "tags": ["Bùi Phi Long"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/co-ba-lofi-version.mp3"
+  },
+  {
+    "id": "s06",
+    "name": "Em Gì Ơi",
+    "tags": ["Jack", "J97", "ICM"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/em-gi-oi.mp3"
+  },
+  {
+    "id": "s07",
+    "name": "Ghế Lại Miền Tây",
+    "tags": ["Diệu Kiên"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/ghe-lai-mien-tay.mp3"
+  },
+  {
+    "id": "s08",
+    "name": "Hào Hoa",
+    "tags": ["Jack", "J97"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/hao-hoa.mp3"
+  },
+  {
+    "id": "s09",
+    "name": "Hoa Hải Đường (HITStory Live Version)",
+    "tags": ["Jack", "J97", "HITStory"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/hoa-hai-duong.mp3"
+  },
+  {
+    "id": "s10",
+    "name": "Hoa Vô Sắc",
+    "tags": ["Jack", "J97", "ICM"],
+    "category": "song",
+    "age": "18+",
+    "path": "songs/hoa-vo-sac.mp3"
+  }
+]
