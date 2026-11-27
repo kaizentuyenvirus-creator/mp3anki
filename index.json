@@ -1,381 +1,491 @@
 [
-    {
-        "id":  "s01",
-        "name":  "18 La Hán Chùa Tây Phương - Trap Phật",
-        "tags":  [
-                     "18 La Hán",
-                     "Trap Phật"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/18-la-han-chua-tay-phuong.mp3"
-    },
-    {
-        "id":  "s02",
-        "name":  "Bạc Phận",
-        "tags":  [
-                     "Jack",
-                     "J97",
-                     "ICM"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/bac-phan.mp3"
-    },
-    {
-        "id":  "s03",
-        "name":  "Bông Bí Vàng",
-        "tags":  [
-                     "Phi Nhung"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/bong-bi-vang.mp3"
-    },
-    {
-        "id":  "s04",
-        "name":  "Chờ Chút",
-        "tags":  [
-                     "TINH HÀ",
-                     "SAY HI"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/cho-chut.mp3"
-    },
-    {
-        "id":  "s05",
-        "name":  "Cô Ba (Lofi Version)",
-        "tags":  [
-                     "Bùi Phi Long"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/co-ba-lofi-version.mp3"
-    },
-    {
-        "id":  "s06",
-        "name":  "Em Gì Ơi",
-        "tags":  [
-                     "Jack",
-                     "J97",
-                     "ICM"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/em-gi-oi.mp3"
-    },
-    {
-        "id":  "s07",
-        "name":  "Ghế Lại Miền Tây",
-        "tags":  [
-                     "Diệu Kiên"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/ghe-lai-mien-tay.mp3"
-    },
-    {
-        "id":  "s08",
-        "name":  "Hào Hoa",
-        "tags":  [
-                     "Jack",
-                     "J97"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/hao-hoa.mp3"
-    },
-    {
-        "id":  "s09",
-        "name":  "Hoa Hải Đường (HITStory Live Version)",
-        "tags":  [
-                     "Jack",
-                     "J97",
-                     "HITStory"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/hoa-hai-duong.mp3"
-    },
-    {
-        "id":  "s10",
-        "name":  "Hoa Vô Sắc",
-        "tags":  [
-                     "Jack",
-                     "J97",
-                     "ICM"
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/hoa-vo-sac.mp3"
-    },
-    {
-        "id":  "s11",
-        "name":  "Hồng Nhan (Piano Version)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/H%E1%BB%93ng%20Nhan%20(Piano%20Version).mp3"
-    },
-    {
-        "id":  "s12",
-        "name":  "KHÔNG MÔN ĐĂNG HỘ ĐỐI - NGUYỄN VĨ",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/KH%C3%94NG%20M%C3%94N%20%C4%90%C4%82NG%20H%E1%BB%98%20%C4%90%E1%BB%90I%20-%20NGUY%E1%BB%84N%20V%C4%A8.mp3"
-    },
-    {
-        "id":  "s13",
-        "name":  "Không Môn Đăng Hộ Đối Remix (1)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Kh%C3%B4ng%20M%C3%B4n%20%C4%90%C4%83ng%20H%E1%BB%99%20%C4%90%E1%BB%91i%20Remix%20(1).mp3"
-    },
-    {
-        "id":  "s14",
-        "name":  "Không Môn Đăng Hộ Đối REMIX CHA CHA CHA - Bản Hot Tiktok",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Kh%C3%B4ng%20M%C3%B4n%20%C4%90%C4%83ng%20H%E1%BB%99%20%C4%90%E1%BB%91i%20REMIX%20CHA%20CHA%20CHA%20-%20B%E1%BA%A3n%20Hot%20Tiktok.mp3"
-    },
-    {
-        "id":  "s15",
-        "name":  "Không Môn Đăng Hộ Đối REMIX",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Kh%C3%B4ng%20M%C3%B4n%20%C4%90%C4%83ng%20H%E1%BB%99%20%C4%90%E1%BB%91i%20REMIX.mp3"
-    },
-    {
-        "id":  "st01",
-        "name":  "(1032) Nguyễn Ngọc Ngạn - Nỗi Mong Đợi Khốn Cùng (Audiobook 48) - YouTube",
-        "tags":  [
-
-                 ],
-        "category":  "story",
-        "path":  "stories/(1032)%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20Ng%E1%BA%A1n%20-%20N%E1%BB%97i%20Mong%20%C4%90%E1%BB%A3i%20Kh%E1%BB%91n%20C%C3%B9ng%20(Audiobook%2048)%20-%20YouTube.mp3"
-    },
-    {
-        "id":  "st02",
-        "name":  "Cuộc Đời Mạc Đĩnh Chi Đêm Vua Sai Người Đặt Tiền Vào Nhà, Hôm Sau Ông Vào Triều Tâu Lên",
-        "tags":  [
-
-                 ],
-        "category":  "story",
-        "path":  "stories/Cu%E1%BB%99c%20%C4%90%E1%BB%9Di%20M%E1%BA%A1c%20%C4%90%C4%A9nh%20Chi%20%20%C4%90%C3%AAm%20Vua%20Sai%20Ng%C6%B0%E1%BB%9Di%20%C4%90%E1%BA%B7t%20Ti%E1%BB%81n%20V%C3%A0o%20Nh%C3%A0%2C%20H%C3%B4m%20Sau%20%C3%94ng%20V%C3%A0o%20Tri%E1%BB%81u%20T%C3%A2u%20L%C3%AAn.mp3"
-    },
-    {
-        "id":  "s16",
-        "name":  "Khất Duyên",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Kh%E1%BA%A5t%20Duy%C3%AAn.mp3"
-    },
-    {
-        "id":  "s17",
-        "name":  "Lào Công Tử",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/L%C3%A0o%20C%C3%B4ng%20T%E1%BB%AD.mp3"
-    },
-    {
-        "id":  "s18",
-        "name":  "Lưu Niên",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/L%C6%B0u%20Ni%C3%AAn.mp3"
-    },
-    {
-        "id":  "s19",
-        "name":  "MẠNH BÀ - Trap Phật",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/M%E1%BA%A0NH%20B%C3%80%20-%20Trap%20Ph%E1%BA%ADt.mp3"
-    },
-    {
-        "id":  "s20",
-        "name":  "Mười Năm (Lộn Xộn 3)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/M%C6%B0%E1%BB%9Di%20N%C4%83m%20(L%E1%BB%99n%20X%E1%BB%99n%203).mp3"
-    },
-    {
-        "id":  "s21",
-        "name":  "Ngày Còn Đôi Mươi",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Ng%C3%A0y%20C%C3%B2n%20%C4%90%C3%B4i%20M%C6%B0%C6%A1i.mp3"
-    },
-    {
-        "id":  "s22",
-        "name":  "Ngôi Sao Cô Đơn",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Ng%C3%B4i%20Sao%20C%C3%B4%20%C4%90%C6%A1n.mp3"
-    },
-    {
-        "id":  "s23",
-        "name":  "RA GIÊNG ANH CƯỚI EM (Lofi Mix)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/RA%20GI%C3%8ANG%20ANH%20C%C6%AF%E1%BB%9AI%20EM%20(Lofi%20Mix).mp3"
-    },
-    {
-        "id":  "s24",
-        "name":  "SẮC KHÔNG KHÔNG SẮC - Trap Phật - Thích Ca Hát (Official Music Video)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/S%E1%BA%AEC%20KH%C3%94NG%20KH%C3%94NG%20S%E1%BA%AEC%20-%20Trap%20Ph%E1%BA%ADt%20-%20Th%C3%ADch%20Ca%20H%C3%A1t%20(Official%20Music%20Video).mp3"
-    },
-    {
-        "id":  "s25",
-        "name":  "Sao Em Vô Tình",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Sao%20Em%20V%C3%B4%20T%C3%ACnh.mp3"
-    },
-    {
-        "id":  "s26",
-        "name":  "SÓNG GIÓ - ICM x JACK 97",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/S%C3%93NG%20GI%C3%93%20-%20ICM%20x%20JACK%2097.mp3"
-    },
-    {
-        "id":  "s27",
-        "name":  "Sóng Gió (J97 - KICM) - 风浪 - Bản Tiếng Trung",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/S%C3%B3ng%20Gi%C3%B3%20(J97%20-%20KICM)%20-%20%E9%A3%8E%E6%B5%AA%20-%20B%E1%BA%A3n%20Ti%E1%BA%BFng%20Trung.mp3"
-    },
-    {
-        "id":  "s28",
-        "name":  "SONG GIO",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/SONG%20GIO.mp3"
-    },
-    {
-        "id":  "s29",
-        "name":  "Thiên Lý Ơi (Remix)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Thi%C3%AAn%20L%C3%BD%20%C6%A0i%20(Remix).mp3"
-    },
-    {
-        "id":  "s30",
-        "name":  "Thương Thời Mộng Mơ (Remake)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Th%C6%B0%C6%A1ng%20Th%E1%BB%9Di%20M%E1%BB%99ng%20M%C6%A1%20(Remake).mp3"
-    },
-    {
-        "id":  "s31",
-        "name":  "Thuyền Quyên (Orinn Remix)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Thuy%E1%BB%81n%20Quy%C3%AAn%20(Orinn%20Remix).mp3"
-    },
-    {
-        "id":  "s32",
-        "name":  "Trạm Dừng Chân",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Tr%E1%BA%A1m%20D%E1%BB%ABng%20Ch%C3%A2n.mp3"
-    },
-    {
-        "id":  "s33",
-        "name":  "Việt Nam Tôi",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Vi%E1%BB%87t%20Nam%20T%C3%B4i.mp3"
-    },
-    {
-        "id":  "s34",
-        "name":  "VỌNG KIM LANG (LOFI VERSION)",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/V%E1%BB%8CNG%20KIM%20LANG%20(LOFI%20VERSION).mp3"
-    },
-    {
-        "id":  "s35",
-        "name":  "Xin Má Rước Dâu",
-        "tags":  [
-
-                 ],
-        "category":  "song",
-        "age":  "18+",
-        "path":  "songs/Xin%20M%C3%A1%20R%C6%B0%E1%BB%9Bc%20D%C3%A2u.mp3"
-    }
+  {
+    "id": "s01",
+    "name": "18 La Hán Chùa Tây Phương - Trap Phật",
+    "artist": "",
+    "aliases": [
+      "18 La Han Chua Tay Phuong - Trap Phat"
+    ],
+    "tags": [
+      "18 La Hán",
+      "Trap Phật",
+      "Nhạc Phật"
+    ],
+    "category": "song",
+    "path": "songs/18-la-han-chua-tay-phuong.mp3"
+  },
+  {
+    "id": "s02",
+    "name": "Bạc Phận",
+    "artist": "Jack",
+    "aliases": [
+      "Bac Phan"
+    ],
+    "tags": [
+      "Jack",
+      "J97",
+      "ICM"
+    ],
+    "category": "song",
+    "path": "songs/bac-phan.mp3"
+  },
+  {
+    "id": "s03",
+    "name": "Bông Bí Vàng",
+    "artist": "Phi Nhung",
+    "aliases": [
+      "Bong Bi Vang"
+    ],
+    "tags": [
+      "Phi Nhung"
+    ],
+    "category": "song",
+    "path": "songs/bong-bi-vang.mp3"
+  },
+  {
+    "id": "s04",
+    "name": "Chờ Chút",
+    "artist": "TINH HÀ",
+    "aliases": [
+      "Cho Chut"
+    ],
+    "tags": [
+      "TINH HÀ",
+      "SAY HI"
+    ],
+    "category": "song",
+    "path": "songs/cho-chut.mp3"
+  },
+  {
+    "id": "s05",
+    "name": "Cô Ba (Lofi Version)",
+    "artist": "Bùi Phi Long",
+    "aliases": [
+      "Co Ba (Lofi Version)"
+    ],
+    "tags": [
+      "Bùi Phi Long",
+      "Lofi"
+    ],
+    "category": "song",
+    "path": "songs/co-ba-lofi-version.mp3"
+  },
+  {
+    "id": "s06",
+    "name": "Em Gì Ơi",
+    "artist": "Jack",
+    "aliases": [
+      "Em Gi Oi"
+    ],
+    "tags": [
+      "Jack",
+      "J97",
+      "ICM"
+    ],
+    "category": "song",
+    "path": "songs/em-gi-oi.mp3"
+  },
+  {
+    "id": "s07",
+    "name": "Ghế Lại Miền Tây",
+    "artist": "Diệu Kiên",
+    "aliases": [
+      "Ghe Lai Mien Tay"
+    ],
+    "tags": [
+      "Diệu Kiên"
+    ],
+    "category": "song",
+    "path": "songs/ghe-lai-mien-tay.mp3"
+  },
+  {
+    "id": "s08",
+    "name": "Hào Hoa",
+    "artist": "Jack",
+    "aliases": [
+      "Hao Hoa"
+    ],
+    "tags": [
+      "Jack",
+      "J97"
+    ],
+    "category": "song",
+    "path": "songs/hao-hoa.mp3"
+  },
+  {
+    "id": "s09",
+    "name": "Hoa Hải Đường (HITStory Live Version)",
+    "artist": "Jack",
+    "aliases": [
+      "Hoa Hai Duong (HITStory Live Version)"
+    ],
+    "tags": [
+      "Jack",
+      "J97",
+      "HITStory"
+    ],
+    "category": "song",
+    "path": "songs/hoa-hai-duong.mp3"
+  },
+  {
+    "id": "s10",
+    "name": "Hoa Vô Sắc",
+    "artist": "Jack",
+    "aliases": [
+      "Hoa Vo Sac"
+    ],
+    "tags": [
+      "Jack",
+      "J97",
+      "ICM"
+    ],
+    "category": "song",
+    "path": "songs/hoa-vo-sac.mp3"
+  },
+  {
+    "id": "s11",
+    "name": "Hồng Nhan (Piano Version)",
+    "artist": "",
+    "aliases": [
+      "Hong Nhan (Piano Version)",
+      "Hong Nhan",
+      "Hồng Nhan"
+    ],
+    "tags": [
+      "Piano"
+    ],
+    "category": "song",
+    "path": "songs/Hồng Nhan (Piano Version).mp3"
+  },
+  {
+    "id": "s12",
+    "name": "KHÔNG MÔN ĐĂNG HỘ ĐỐI - NGUYỄN VĨ",
+    "artist": "Nguyễn Vĩ",
+    "aliases": [
+      "KHONG MON DANG HO DOI - NGUYEN VI",
+      "Khong Mon Dang Ho Doi",
+      "Không Môn Đăng Hộ Đối"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/KHÔNG MÔN ĐĂNG HỘ ĐỐI - NGUYỄN VĨ.mp3"
+  },
+  {
+    "id": "s13",
+    "name": "Không Môn Đăng Hộ Đối Remix (1)",
+    "artist": "",
+    "aliases": [
+      "Khong Mon Dang Ho Doi Remix (1)",
+      "Khong Mon Dang Ho Doi",
+      "Không Môn Đăng Hộ Đối"
+    ],
+    "tags": [
+      "Remix"
+    ],
+    "category": "song",
+    "path": "songs/Không Môn Đăng Hộ Đối Remix (1).mp3"
+  },
+  {
+    "id": "s14",
+    "name": "Không Môn Đăng Hộ Đối REMIX CHA CHA CHA - Bản Hot Tiktok",
+    "artist": "",
+    "aliases": [
+      "Khong Mon Dang Ho Doi REMIX CHA CHA CHA - Ban Hot Tiktok",
+      "Khong Mon Dang Ho Doi",
+      "Không Môn Đăng Hộ Đối"
+    ],
+    "tags": [
+      "Remix"
+    ],
+    "category": "song",
+    "path": "songs/Không Môn Đăng Hộ Đối REMIX CHA CHA CHA - Bản Hot Tiktok.mp3"
+  },
+  {
+    "id": "s15",
+    "name": "Không Môn Đăng Hộ Đối REMIX",
+    "artist": "",
+    "aliases": [
+      "Khong Mon Dang Ho Doi REMIX",
+      "Khong Mon Dang Ho Doi",
+      "Không Môn Đăng Hộ Đối"
+    ],
+    "tags": [
+      "Remix"
+    ],
+    "category": "song",
+    "path": "songs/Không Môn Đăng Hộ Đối REMIX.mp3"
+  },
+  {
+    "id": "st01",
+    "name": "(1032) Nguyễn Ngọc Ngạn - Nỗi Mong Đợi Khốn Cùng (Audiobook 48) - YouTube",
+    "artist": "Nguyễn Ngọc Ngạn",
+    "aliases": [
+      "(1032) Nguyen Ngoc Ngan - Noi Mong Doi Khon Cung (Audiobook 48) - YouTube",
+      "Noi Mong Doi Khon Cung",
+      "Nỗi Mong Đợi Khốn Cùng",
+      "Truyện Nguyễn Ngọc Ngạn"
+    ],
+    "tags": [
+      "Truyện audio",
+      "Audiobook"
+    ],
+    "category": "story",
+    "path": "stories/(1032) Nguyễn Ngọc Ngạn - Nỗi Mong Đợi Khốn Cùng (Audiobook 48) - YouTube.mp3"
+  },
+  {
+    "id": "st02",
+    "name": "Cuộc Đời Mạc Đĩnh Chi Đêm Vua Sai Người Đặt Tiền Vào Nhà, Hôm Sau Ông Vào Triều Tâu Lên",
+    "artist": "",
+    "aliases": [
+      "Cuoc Doi Mac Dinh Chi Dem Vua Sai Nguoi Dat Tien Vao Nha, Hom Sau Ong Vao Trieu Tau Len",
+      "Mac Dinh Chi",
+      "Mạc Đĩnh Chi",
+      "Truyện lịch sử"
+    ],
+    "tags": [
+      "Truyện audio",
+      "Audiobook"
+    ],
+    "category": "story",
+    "path": "stories/Cuộc Đời Mạc Đĩnh Chi  Đêm Vua Sai Người Đặt Tiền Vào Nhà, Hôm Sau Ông Vào Triều Tâu Lên.mp3"
+  },
+  {
+    "id": "s16",
+    "name": "Khất Duyên",
+    "artist": "",
+    "aliases": [
+      "Khat Duyen"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Khất Duyên.mp3"
+  },
+  {
+    "id": "s17",
+    "name": "Lào Công Tử",
+    "artist": "",
+    "aliases": [
+      "Lao Cong Tu"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Lào Công Tử.mp3"
+  },
+  {
+    "id": "s18",
+    "name": "Lưu Niên",
+    "artist": "",
+    "aliases": [
+      "Luu Nien"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Lưu Niên.mp3"
+  },
+  {
+    "id": "s19",
+    "name": "MẠNH BÀ - Trap Phật",
+    "artist": "",
+    "aliases": [
+      "MANH BA - Trap Phat"
+    ],
+    "tags": [
+      "Trap Phật",
+      "Nhạc Phật"
+    ],
+    "category": "song",
+    "path": "songs/MẠNH BÀ - Trap Phật.mp3"
+  },
+  {
+    "id": "s20",
+    "name": "Mười Năm (Lộn Xộn 3)",
+    "artist": "",
+    "aliases": [
+      "Muoi Nam (Lon Xon 3)"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Mười Năm (Lộn Xộn 3).mp3"
+  },
+  {
+    "id": "s21",
+    "name": "Ngày Còn Đôi Mươi",
+    "artist": "",
+    "aliases": [
+      "Ngay Con Doi Muoi"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Ngày Còn Đôi Mươi.mp3"
+  },
+  {
+    "id": "s22",
+    "name": "Ngôi Sao Cô Đơn",
+    "artist": "",
+    "aliases": [
+      "Ngoi Sao Co Don"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Ngôi Sao Cô Đơn.mp3"
+  },
+  {
+    "id": "s23",
+    "name": "RA GIÊNG ANH CƯỚI EM (Lofi Mix)",
+    "artist": "",
+    "aliases": [
+      "RA GIENG ANH CUOI EM (Lofi Mix)"
+    ],
+    "tags": [
+      "Lofi"
+    ],
+    "category": "song",
+    "path": "songs/RA GIÊNG ANH CƯỚI EM (Lofi Mix).mp3"
+  },
+  {
+    "id": "s24",
+    "name": "SẮC KHÔNG KHÔNG SẮC - Trap Phật - Thích Ca Hát (Official Music Video)",
+    "artist": "",
+    "aliases": [
+      "SAC KHONG KHONG SAC - Trap Phat - Thich Ca Hat (Official Music Video)"
+    ],
+    "tags": [
+      "Trap Phật",
+      "Nhạc Phật"
+    ],
+    "category": "song",
+    "path": "songs/SẮC KHÔNG KHÔNG SẮC - Trap Phật - Thích Ca Hát (Official Music Video).mp3"
+  },
+  {
+    "id": "s25",
+    "name": "Sao Em Vô Tình",
+    "artist": "",
+    "aliases": [
+      "Sao Em Vo Tinh"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Sao Em Vô Tình.mp3"
+  },
+  {
+    "id": "s26",
+    "name": "SÓNG GIÓ - ICM x JACK 97",
+    "artist": "ICM, Jack",
+    "aliases": [
+      "SONG GIO - ICM x JACK 97",
+      "Song Gio",
+      "Sóng Gió Jack"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/SÓNG GIÓ - ICM x JACK 97.mp3"
+  },
+  {
+    "id": "s27",
+    "name": "Sóng Gió (J97 - KICM) - 风浪 - Bản Tiếng Trung",
+    "artist": "J97, K-ICM",
+    "aliases": [
+      "Song Gio (J97 - KICM) - 风浪 - Ban Tieng Trung",
+      "Song Gio tieng Trung",
+      "Sóng Gió tiếng Trung"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Sóng Gió (J97 - KICM) - 风浪 - Bản Tiếng Trung.mp3"
+  },
+  {
+    "id": "s28",
+    "name": "SONG GIO",
+    "artist": "",
+    "aliases": [
+      "SONG GIO",
+      "Sóng Gió"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/SONG GIO.mp3"
+  },
+  {
+    "id": "s29",
+    "name": "Thiên Lý Ơi (Remix)",
+    "artist": "",
+    "aliases": [
+      "Thien Ly Oi (Remix)"
+    ],
+    "tags": [
+      "Remix"
+    ],
+    "category": "song",
+    "path": "songs/Thiên Lý Ơi (Remix).mp3"
+  },
+  {
+    "id": "s30",
+    "name": "Thương Thời Mộng Mơ (Remake)",
+    "artist": "",
+    "aliases": [
+      "Thuong Thoi Mong Mo (Remake)"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Thương Thời Mộng Mơ (Remake).mp3"
+  },
+  {
+    "id": "s31",
+    "name": "Thuyền Quyên (Orinn Remix)",
+    "artist": "",
+    "aliases": [
+      "Thuyen Quyen (Orinn Remix)"
+    ],
+    "tags": [
+      "Remix"
+    ],
+    "category": "song",
+    "path": "songs/Thuyền Quyên (Orinn Remix).mp3"
+  },
+  {
+    "id": "s32",
+    "name": "Trạm Dừng Chân",
+    "artist": "",
+    "aliases": [
+      "Tram Dung Chan"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Trạm Dừng Chân.mp3"
+  },
+  {
+    "id": "s33",
+    "name": "Việt Nam Tôi",
+    "artist": "",
+    "aliases": [
+      "Viet Nam Toi"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Việt Nam Tôi.mp3"
+  },
+  {
+    "id": "s34",
+    "name": "VỌNG KIM LANG (LOFI VERSION)",
+    "artist": "",
+    "aliases": [
+      "VONG KIM LANG (LOFI VERSION)"
+    ],
+    "tags": [
+      "Lofi"
+    ],
+    "category": "song",
+    "path": "songs/VỌNG KIM LANG (LOFI VERSION).mp3"
+  },
+  {
+    "id": "s35",
+    "name": "Xin Má Rước Dâu",
+    "artist": "",
+    "aliases": [
+      "Xin Ma Ruoc Dau"
+    ],
+    "tags": [],
+    "category": "song",
+    "path": "songs/Xin Má Rước Dâu.mp3"
+  }
 ]
